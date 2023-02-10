@@ -8,11 +8,11 @@ const config: GatsbyConfig = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitle: `Cara`,
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
-    siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://cara.lekoarts.de`,
-    siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+    siteTitle: `debujalanan`,
+    siteTitleAlt: `debujalanan - Personal Web Page by Apip`,
+    siteHeadline: `debujalanan - When time become flying dust`,
+    siteUrl: `https://debujalanan.site`,
+    siteDescription: `When time become a flying dust, let's fight together`,
     siteImage: `/banner.jpg`,
     author: `@lekoarts_de`,
   },
@@ -26,9 +26,9 @@ const config: GatsbyConfig = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `debujalanan - Personal Web Page by Apip`,
+        short_name: `debujalanan`,
+        description: `When time become a flying dust, let's fight together`,
         start_url: `/`,
         background_color: `#141821`,
         // This will impact how browsers show your PWA/website

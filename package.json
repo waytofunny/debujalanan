@@ -1,9 +1,9 @@
 {
   "private": true,
-  "name": "cara",
-  "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
+  "name": "debujalanan",
+  "description": "personal web page by apip",
   "version": "0.2.14",
-  "author": "LekoArts",
+  "author": "debujalanan",
   "license": "0BSD",
   "starter-name": "gatsby-starter-portfolio-cara",
   "scripts": {
